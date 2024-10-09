@@ -64,3 +64,16 @@ Para cadastrar um novo estoque, siga os passos abaixo:
 >⚠️ Um tempo de processamento pode ser cadastrado em cada uma das etapas da estratégia de envio. Para mais detalhes consulte [Como é calculado o prazo de entrega do pedido](https://help.vtex.com/pt/tutorial/como-e-calculado-o-prazo-de-entrega-do-pedido--1TOuKCIjGQmqOqQkEqCg82).
 
 ## Testar estratégia de envio
+
+O **Simulador de Envio** disponível no Admin VTEX permite ao lojista simular e analisar opções de entrega, verificando disponibilidade de itens, formas de entrega, custos e prazos. Ele ajuda a validar configurações de estratégia de envio antes de habilitar o processo logístico, considerando a disponibilidade de estoque e transportadoras para a região.
+
+Para realizar uma simulação, siga os passos abaixo preenchendo os campos obrigatórios: 
+1. Selecione o `País` e `Política comercial` desejados.
+2. Preencha o campo ` Selecione um produto` com o nome ou ID de SKU.
+3. Preencha o campo `Quantidade` do SKU.
+4. Digite o **CEP** que deseja realizar a simulação.
+5. Clique no botão `Simular Frete`
+
+> ℹ️ O campo `Preço` é opcional e o simulador não leva em consideração o preço cadastrado no módulo Catálogo.
+
+>⚠️ Para entender mais detalhes sobre a simulação e os motivos mais comuns que fazem com que uma transportadora não esteja disponível para simulação, consulte [Simulador de Envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144?utm_term=&utm_campaign=BRA_pmax_2023&utm_source=adwords&utm_medium=ppc&hsa_acc=9663921675&hsa_cam=20809358286&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vCbyHccKBf-W1vxG31B3hBXtNuyRC1WM80Op8k9fJ1zSAWcYaq520gaAvlTEALw_wcB).
