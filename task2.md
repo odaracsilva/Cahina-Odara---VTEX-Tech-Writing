@@ -74,6 +74,9 @@ Para realizar uma simulação, siga os passos abaixo preenchendo os campos obrig
 4. Digite o **CEP** que deseja realizar a simulação.
 5. Clique no botão `Simular Frete`
 
+**Exemplo**
+![Exemplo de simulação de envio](https://iili.io/dyWy58B.png "Exemplo de simulação de envio")
+
 > ℹ️ O campo `Preço` é opcional e o simulador não leva em consideração o preço cadastrado no módulo Catálogo.
 
 >⚠️ Para entender mais detalhes sobre a simulação e os motivos mais comuns que fazem com que uma transportadora não esteja disponível para simulação, consulte [Simulador de Envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144?utm_term=&utm_campaign=BRA_pmax_2023&utm_source=adwords&utm_medium=ppc&hsa_acc=9663921675&hsa_cam=20809358286&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vCbyHccKBf-W1vxG31B3hBXtNuyRC1WM80Op8k9fJ1zSAWcYaq520gaAvlTEALw_wcB).
